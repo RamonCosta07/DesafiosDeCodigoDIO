@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\ref\VaiTerCopa.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\bin\Debug\net5.0\VaiTerCopa.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\ref\VaiTerCopa.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\VaiTerCopa\VaiTerCopa\obj\Debug\net5.0\VaiTerCopa.genruntimeconfig.cache

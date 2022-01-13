@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\bin\Debug\net5.0\ref\SucessorPar.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\bin\Debug\net5.0\SucessorPar.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\ref\SucessorPar.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\SucessorPar\SucessorPar\obj\Debug\net5.0\SucessorPar.genruntimeconfig.cache

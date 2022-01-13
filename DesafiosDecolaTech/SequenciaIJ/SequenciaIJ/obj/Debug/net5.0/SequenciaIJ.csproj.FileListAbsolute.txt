@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\ref\SequenciaIJ.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\bin\Debug\net5.0\SequenciaIJ.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\ref\SequenciaIJ.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\DesafiosDecolaTech\SequenciaIJ\SequenciaIJ\obj\Debug\net5.0\SequenciaIJ.genruntimeconfig.cache
