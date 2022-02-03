@@ -1,0 +1,16 @@
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\bin\Debug\net5.0\PapaiNoel.exe
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\bin\Debug\net5.0\PapaiNoel.deps.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\bin\Debug\net5.0\PapaiNoel.runtimeconfig.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\bin\Debug\net5.0\PapaiNoel.runtimeconfig.dev.json
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\bin\Debug\net5.0\PapaiNoel.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\bin\Debug\net5.0\ref\PapaiNoel.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\bin\Debug\net5.0\PapaiNoel.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.csproj.AssemblyReference.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.AssemblyInfoInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.AssemblyInfo.cs
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\ref\PapaiNoel.dll
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.pdb
+C:\Users\ramon\Documents\Bootcamp\C# DOTNET\DesafiosDeCodigoDIO\Desafios LocalizaLabs .NET Developer #2\PapaiNoel\PapaiNoel\obj\Debug\net5.0\PapaiNoel.genruntimeconfig.cache
